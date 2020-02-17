@@ -13,8 +13,7 @@ A list of papers and other resources on computer vision and deep learning.
 - A Review on Deep Learning in Medical Image Reconstruction, arXiv2019.6
 - MNIST-C: A Robustness Benchmark for Computer Vision, arXiv2019.6 [[Code&Dataset]](https://github.com/google-research/mnist-c)
 - Going Deep in Medical Image Analysis: Concepts, Methods, Challenges and Future Directions， arXiv2019.2
-- Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art, arXiv2017 
-  [[Reso]](https://github.com/aleju/papers/blob/master/mixed/Computer_Vision_for_Autonomous_Vehicles_Overview.md) [[PDF]](https://arxiv.org/pdf/1704.05519v1.pdf)
+- Computer Vision for Autonomous Vehicles: Problems, Datasets and State-of-the-Art. [arXiv201704](https://arxiv.org/pdf/1704.05519v1.pdf) [[Resourses]](https://github.com/aleju/papers/blob/master/mixed/Computer_Vision_for_Autonomous_Vehicles_Overview.md)
 - [2019TIV] A Survey of Autonomous Driving: Common Practices and Emerging Technologies
 - [2014JMLR] Do we need hundreds of classifiers to solve real world classification problems
 
@@ -310,7 +309,7 @@ A list of papers and other resources on computer vision and deep learning.
 - A Deep Journey into Super-resolution: A survey, arXiv2019.9
 - [2020PAMI] Deep Learning for Image Super-resolution: A Survey
 - [2019IJAC] Deep Learning Based Single Image Super-resolution: A Survey
-- --
+- 
 - Densely Residual Laplacian Super-resolution, [arXiv2019.7](https://arxiv.org/abs/1906.12021) [[Code]](https://github.com/saeed-anwar/DRLN)
 - Lightweight Image Super-Resolution with Adaptive Weighted Learning Network, [arXiv2019.4](https://arxiv.org/abs/1904.02358) [[Code]](https://github.com/ChaofWang/AWSRN)
 - [2019SIGG] Handheld Multi-Frame Super-Resolution
@@ -334,12 +333,12 @@ A list of papers and other resources on computer vision and deep learning.
 **Enhancement**
 
 - Diving Deeper into Underwater Image Enhancement: A Survey, arXiv2019.7
-- --
+- 
 - [2018CVPR] Deep Photo Enhancer: Unpaired Learning for Image Enhancement from Photographs with GANs,  [[Homepage]](http://www.cmlab.csie.ntu.edu.tw/project/Deep-Photo-Enhancer/) [[Code]](https://github.com/nothinglo/Deep-Photo-Enhancer) 
 - [2018CVPR] Classification-Driven Dynamic Image Enhancement
 - [2017CVPR] Forget Luminance Conversion and Do Something Better
 - [2016CVPR] Two Illuminant Estimation and User Correction Preference
-- --
+- 
 - Low-light Enhancement Repo [[github]](https://github.com/rockeyben/Low-Light)
 - 基于深度学习的低光照图像增强方法总结(2017-2019) [[Note]](https://zhuanlan.zhihu.com/p/78297097)
 - Learning to see, Antonio Torralba, 2016 [[Slides]](https://mp.weixin.qq.com/s?__biz=MzA5MDMwMTIyNQ==&mid=2649286338&idx=1&sn=e5ed56e3fba3ef44af3d593dec55d764&scene=1&srcid=0827T9GPh4bd2NQ1BEgCocD5#rd)
@@ -433,7 +432,7 @@ A list of papers and other resources on computer vision and deep learning.
 - Deep Learning for Person Re-identification: A Survey and Outlook, [arXiv2020.1](https://arxiv.org/abs/2001.04193) [[Code]](https://github.com/mangye16/ReID-Survey) 
 - Pedestrain Attribute Recognition: A Survey, [arXiv2019.1](https://arxiv.org/abs/1901.07474) [[Proj]](https://sites.google.com/view/ahu-pedestrianattributes/)
 - CrowdHuman: A Benchmark for Detecting Human in a Crowd, [arXiv201804](https://arxiv.org/abs/1805.00123) [[Proj]](http://www.crowdhuman.org/) [[Note]](https://github.com/Mycenae/PaperWeekly/blob/master/CrowdHuman.md)
-- --
+- 
 - PedHunter: Occlusion Robust Pedestrian Detector in Crowded Scenes, [arXiv2019.9](https://arxiv.org/abs/1909.06826)
 - [2020TMM/2019CVPRW] Bag of Tricks and A Strong Baseline for Deep Person Re-identification [[Code]](https://github.com/michuanhaohao/reid-strong-baseline)
 - [2019ICCV] Mask-Guided Attention Network for Occluded Pedestrian Detection [[Code]](https://github.com/Leotju/MGAN)
@@ -509,7 +508,7 @@ A list of papers and other resources on computer vision and deep learning.
 
 - [2019ACMCS] How Generative Adversarial Networks and Their Variants Work: An Overview
 
-- --
+- -
 
 - StarGAN v2: Diverse Image Synthesis for Multiple Domains. [arXiv201912](https://arxiv.org/abs/1912.01865) [[Code]](https://github.com/clovaai/stargan-v2)
 
@@ -574,7 +573,7 @@ A list of papers and other resources on computer vision and deep learning.
 
 - [2016CVPR] A Benchmark Dataset and Evaluation Methodology for Video Object Segmentation
 
-- --
+- 
 
 - [2019ICCV] RANet: Ranking Attention Network for Fast Video Object Segmentation
 
@@ -701,7 +700,7 @@ A list of papers and other resources on computer vision and deep learning.
 
 - Data Augmentation Revisited: Rethinking the Distribution Gap between Clean and Augmented Data. [arXiv2019.11](https://arxiv.org/abs/1909.09148)
 
-- --
+- 
 
 - GridMask Data Augmentation. [arXiv202001](https://arxiv.org/abs/2001.04086) [[Code]](https://github.com/akuxcw/GridMask) [[Note]](https://mp.weixin.qq.com/s/TxZ8usl1gaflniXGB0xaew)
 
