@@ -184,6 +184,7 @@ A list of papers and other resources on computer vision and deep learning.
 >
 > Camera Calibration [[Note]](https://mp.weixin.qq.com/s/AU9uLn6cncgjD5I8r_mUvQ) [[Note2]](https://mp.weixin.qq.com/s?__biz=MzIxOTczOTM4NA==&mid=2247486940&idx=1&sn=5a00a823dfaa7cafeda5a5d74394cb1f&chksm=97d7e84ba0a0615d48a2dad237449cfcea93430e7af2ab035775382ac667f2b1de0e91e8cc18&mpshare=1&scene=24&srcid=02135YhWNDRG2lgQFtnxoGkY#rd)
 >
+> [Hub] [Visual SLAM Related Research](https://github.com/wuxiaolang/Visual_SLAM_Related_Research)
 
 
 
@@ -668,18 +669,29 @@ A list of papers and other resources on computer vision and deep learning.
   > [Blog] An Overview of Normalization Methods in Deep Learning, 2018.11 [[Page]](https://mlexplained.com/2018/11/30/an-overview-of-normalization-methods-in-deep-learning/)
 
 - Attentive Normalization. [Tianfu Wu] [arXiv2019.11](https://arxiv.org/abs/1908.01259) [[Code]](https://github.com/Cyril9227/Keras_AttentiveNormalization)
+
 - Network Deconvolution. [a alternative to Batch Normalization]. arXiv2019.9 [[Proj]](https://sites.google.com/view/cxy)
+
 - Weight Standardization. [arXiv2019.3](https://arxiv.org/abs/1903.10520) [[Code]](https://github.com/joe-siyuan-qiao/WeightStandardization)
 
 - [**IN**] Instance Normalization: The Missing Ingredient for Fast Stylization. [arXiv2017.11](https://arxiv.org/abs/1607.08022) [[Code]](https://github.com/DmitryUlyanov/texture_nets)
+
 - [**LN**] Layer Normalization. [Hinton] [arXiv2016.7](https://arxiv.org/abs/1607.06450) [[Note]](https://leimao.github.io/blog/Layer-Normalization/)
+
 - [2019NIPS] Understanding and Improving Layer Normalization
+
 - [2019NIPS] Positional Normalization [[Code]](https://github.com/Boyiliee/PONO) [[Supp]](https://papers.nips.cc/paper/8440-positional-normalization)
+
 - [2018NIPS] How Does Batch Normalization Help Optimization? [[arXiv19v]](https://arxiv.org/abs/1805.11604) [[Ref]](https://mp.weixin.qq.com/s/laj9ZFq29db3iykU9Y56Tg)
+
 - [2018NIPS] [**BIN**] Batch-Instance Normalization for Adaptively Style-Invariant Neural Networks [[Code]](https://github.com/hyeonseobnam/Batch-Instance-Normalization)
+
 - [2018ECCV] [**GN**] Group normalization
+
 - [2017NIPS] Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models
+
 - [2016NIPS] [**WN**] Weight normalization: A simple reparameterization to accelerate training of deep neural networks
+
 - [2015ICML] [**BN**] Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift
 
 **Dropout**
