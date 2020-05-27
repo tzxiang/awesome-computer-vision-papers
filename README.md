@@ -217,6 +217,7 @@ A list of papers and other resources on computer vision and deep learning.
 
 ### Depth/StereoMatching
 
+- [2020PAMI] SurfaceNet+: An End-to-end 3D Neural Network for Very Sparse Multi-view Stereopsis [[Code]](https://github.com/mjiUST/SurfaceNet-plus)
 - [2020ICLR] **Pseudo-LiDAR++**: Accurate Depth for 3D Object Detection in Autonomous Driving, arXiv2019.8 [[Code]](https://github.com/mileyan/Pseudo_Lidar_V2)
 - [2019NIPS] [**SC-SfMLearner**] Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video [[Proj]](https://jwbian.net/sc-sfmlearner) [[Code]](https://github.com/JiawangBian/SC-SfMLearner-Release)
 - [2019ICCV] How do neural networks see depth in single images? [[Note]](https://zhuanlan.zhihu.com/p/95758284)
@@ -234,6 +235,7 @@ A list of papers and other resources on computer vision and deep learning.
 - [2018CVPR] **GeoNet**: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose [[Code]](https://github.com/yzcjtr/GeoNet)
 - [2018CVPR] **DeepMVS**: Learning Multi-View Stereopsis [[Proj]](https://phuang17.github.io/DeepMVS/index.html) [[Code]](https://github.com/phuang17/DeepMVS)
 - [2018ECCV] **MVSNet**: Depth Inference for Unstructured Multi-view Stereo
+- [2017ICCV] **SurfaceNet**: An End-to-end 3D Neural Network for Multiview Stereopsis [[Code]](https://github.com/mjiUST/SurfaceNet)
 - [2017CVPR] [**SfMLearner**] Unsupervised Learning of Depth and Ego-Motion from Video, Oral [[Proj]](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)  [[TF]](https://github.com/tinghuiz/SfMLearner) [[Pytorch]](https://github.com/ClementPinard/SfmLearner-Pytorch) [[ClassProj]](https://cmsc733.github.io/2019/proj/p4/)
 - [2017CVPR] **SGM-Nets**: Semi-Global Matching With Neural Networks
 - [2016JMLR] [**MC-CNN**] Stereo matching by training a convolutional neural network to compare image patches [[Code]](https://github.com/jzbontar/mc-cnn)
