@@ -6,6 +6,8 @@ A list of papers and other resources on computer vision and deep learning.
 
 ## Reviews
 
+- A Survey on Deep Learning Techniques for Stereo-based Depth Estimation. [arXiv202006](https://arxiv.org/abs/2006.02535)
+- Deep Learning for LiDAR Point Clouds in Autonomous Driving: A Review. [arXiv202005](https://arxiv.org/abs/2005.09830)
 - A Gentle Introduction to Deep Learning for Graphs. [arXiv201912](https://arxiv.org/abs/1912.12693) [[Note]](https://zhuanlan.zhihu.com/p/106003590)
 - A Comprehensive Survey on Graph Neural Networks. [arXiv201912](https://arxiv.org/abs/1901.00596) [[Note]](https://zhuanlan.zhihu.com/p/75307407)
 - Research Guide: Model Distillation Techniques for Deep Learning, Derrick Mwiti, 2019.11 [[Blog]](https://heartbeat.fritz.ai/research-guide-model-distillation-techniques-for-deep-learning-4a100801c0eb)
@@ -45,6 +47,9 @@ A list of papers and other resources on computer vision and deep learning.
 
 **Review**
 
+- A Survey on Instance Segmentation: State of the art, [arXiv202007](https://arxiv.org/abs/2007.00047)
+- Unsupervised Domain Adaptation in Semantic Segmentation: a Review, [arXiv202005](https://arxiv.org/abs/2005.10876)
+- Image Segmentation Using Deep Learning: A Survey. [arXiv202001](https://arxiv.org/abs/2001.05566)
 - Recent progress in semantic image segmentation, Artificial Intelligence Review, 2019
 - Review of Deep Learning Algorithms for Image Semantic Segmentation, 2018 [[Blog]](https://medium.com/@arthur_ouaknine/review-of-deep-learning-algorithms-for-image-semantic-segmentation-509a600f7b57)
 
@@ -503,11 +508,15 @@ A list of papers and other resources on computer vision and deep learning.
 
 - Keep Calm and train a GAN. Pitfalls and Tips on training Generative Adversarial Networks [[Page]](https://mp.weixin.qq.com/s/3XihII4sRfE-TmGhP4h1pg)
 
+- Image Augmentations for GAN Training. [arXiv202006](https://arxiv.org/abs/2006.02595)
+
 **Papers**
 
 - > [Blogg] [A Beginner's Guide to Generative Adversarial Networks (GANs)](https://pathmind.com/wiki/generative-adversarial-network-gan), 2019
 
 - Generative Adversarial Networks: A Survey and Taxonomy, [arXiv2020.2](https://arxiv.org/abs/1906.01529) [[GANReview]](https://github.com/sheqi/GAN_Review)
+
+- A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications, [arXiv202001](https://arxiv.org/abs/2001.06937)
 
 - [2019ACMCS] How Generative Adversarial Networks and Their Variants Work: An Overview
 
@@ -716,6 +725,8 @@ A list of papers and other resources on computer vision and deep learning.
 
 - 
 
+- FMix: Enhancing Mixed Sample Data Augmentation [arXiv202006](https://arxiv.org/abs/2002.12047) [[Code]](https://github.com/ecs-vlc/FMix)
+
 - GridMask Data Augmentation. [arXiv202001](https://arxiv.org/abs/2001.04086) [[Code]](https://github.com/akuxcw/GridMask) [[Note]](https://mp.weixin.qq.com/s/TxZ8usl1gaflniXGB0xaew)
 
 - Let’s Get Dirty: GAN Based Data Augmentation for Soiling and Adverse Weather Classification in Autonomous Driving. [arXiv2019.12](https://arxiv.org/abs/1912.02249)
@@ -851,6 +862,8 @@ A list of papers and other resources on computer vision and deep learning.
 
 - HGC: Hierarchical Group Convolution for Highly Efficient Neural Network, arXiv201906
 
+- [2020CVPR] **GhostNet**: More Features from Cheap Operations [[Code]](https://github.com/huawei-noah/ghostnet)
+
 - [2019CVPR] **ESPNetv2**: A Light-weight, Power Efficient, and General Purpose Convolutional Neural Network [[Code]](https://github.com/sacmehta/ESPNetv2)
 
   [2018ECCV] **ESPNet**: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation
@@ -877,7 +890,7 @@ A list of papers and other resources on computer vision and deep learning.
 
   [2018CVPR] MobileNetV2: Inverted Residuals and Linear Bottlenecks. [[Note]](zhuanlan.zhihu.com/c_1113861154916601856)
 
-  [2017] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications. [arXiv201704](https://arxiv.org/abs/1704.04861)
+  [2017] **MobileNets**: Efficient Convolutional Neural Networks for Mobile Vision Applications. [arXiv201704](https://arxiv.org/abs/1704.04861)
 
 - ShuffleNet Series [[Note]](https://mp.weixin.qq.com/s/2JSy5FiKDAkVkEl2o1v-aQ) 
 
@@ -885,7 +898,7 @@ A list of papers and other resources on computer vision and deep learning.
 
   [2018ECCV] ShuffleNet V2: Practical Guidelines for Efficient CNN Architecture Design
 
-  [2018CVPR] ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices
+  [2018CVPR] **ShuffleNet**: An Extremely Efficient Convolutional Neural Network for Mobile Devices
 
 
 
@@ -926,3 +939,14 @@ A list of papers and other resources on computer vision and deep learning.
 
 - A Simple Framework for Contrastive Learning of Visual Representations. [arXive202002](https://arxiv.org/abs/2002.05709)
 
+
+
+**Pose**
+
+- Pose Trainer: Correcting Exercise Posture using Pose Estimation, [arXiv](https://arxiv.org/pdf/2006.11718.pdf) [github](https://github.com/stevenzchen/pose-trainer)
+
+
+
+**AI+Application**
+
+- MetNet: A Neural Weather Model for Precipitation Forecasting, [arXiv202003](https://arxiv.org/abs/2003.12140) [[Blog]](https://ai.googleblog.com/2020/03/a-neural-weather-model-for-eight-hour.html) [Intro](https://mp.weixin.qq.com/s/GGLb7eA9a-5ZUNGs4X89iA)
